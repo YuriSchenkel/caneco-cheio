@@ -1,0 +1,9 @@
+* {
+  border: 0;
+  margin: 0;
+}
+
+body {
+  background: url(../assets/caneco-cheio.jpg) no-repeat top left;
+  width: 100vw;
+}
